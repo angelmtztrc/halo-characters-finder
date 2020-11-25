@@ -1,5 +1,14 @@
+import CharactersList from '../characters/CharactersList';
+
 const CovenantScreen = () => {
-  return <h1>Covenants</h1>;
+  return (
+    <div>
+      <h1>Covenants</h1>
+      <div>
+        <CharactersList faction="Covenant" />
+      </div>
+    </div>
+  );
 };
 
 export default CovenantScreen;

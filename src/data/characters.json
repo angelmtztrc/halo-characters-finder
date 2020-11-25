@@ -1,0 +1,92 @@
+[
+  {
+    "id": "john-117",
+    "name": "John-117",
+    "rank": "Master Chief Petty Officer",
+    "homeworld": "Eridanus II",
+    "specie": "Human",
+    "faction": "Spartan",
+    "description": "Master Chief Petty Officer John-117 is the renowned Spartan and living legend that brought an end to the Covenant War and saved Earth from the Didact’s attack."
+  },
+  {
+    "id": "samuel-034",
+    "name": "Samuel-034",
+    "rank": "Petty Officer, Second Class",
+    "homeworld": "Harvest",
+    "specie": "Human",
+    "faction": "Spartan",
+    "description": "Blue Team’s original second-in-command, Samuel-034 was a close friend to John-117 and was the first Spartan-II to be killed during the Covenant War."
+  },
+  {
+    "id": "jerome-092",
+    "name": "Jerome-092",
+    "rank": "Senior Chief Petty Officer",
+    "homeworld": "Minister",
+    "specie": "Human",
+    "faction": "Spartan",
+    "description": "Jerome-092 was part of the legendary SPARTAN-II project and leader of the Red Team detachment associated with UNSC Spirit of Fire."
+  },
+  {
+    "id": "alice-130",
+    "name": "Alice-130",
+    "rank": "Senior Chief Petty Officer",
+    "homeworld": "Passage",
+    "specie": "Human",
+    "faction": "Spartan",
+    "description": "Alice-130 was part of the legendary SPARTAN-II project and member of the Red Team detachment associated with UNSC Spirit of Fire."
+  },
+  {
+    "id": "kelly-087",
+    "name": "Kelly-087",
+    "rank": "Spartan Petty Officer, First class",
+    "homeworld": "IMBER",
+    "specie": "Human",
+    "faction": "Spartan",
+    "description": "Kelly-087 is an elite Spartan-II supersoldier and close friend of the Master Chief. She is renowned for her incredible speed even among other Spartans."
+  },
+  {
+    "id": "thel-vadam",
+    "name": "Thel Vadam",
+    "rank": "Arbiter",
+    "homeworld": "Sanghelios",
+    "specie": "Sangheili",
+    "faction": "Covenant",
+    "description": "The Arbiter Thel ‘Vadam, once a devoted Covenant warrior, forged a bond with humanity after the discovery that his entire belief system was based on a lie."
+  },
+  {
+    "id": "prophet-of-truth",
+    "name": "Prophet of Truth",
+    "rank": "Hierarch",
+    "homeworld": "High Charity",
+    "specie": "San'Shyuum",
+    "faction": "Covenant",
+    "description": "After first contact with humankind, the High Prophet of Truth emerged as the leader of the Covenant, intent on wiping out the enemy species."
+  },
+  {
+    "id": "prophet-of-mercy",
+    "name": "Prophet of Mercy",
+    "rank": "hierarch",
+    "homeworld": "High Charity",
+    "specie": "San'Shyuum",
+    "faction": "Covenant",
+    "description": "The High Prophet of Mercy transitioned from Covenant Philologist to High Prophet upon the discovery of humanity."
+  },
+  {
+    "id": "prophet-of-regret",
+    "name": "Prophet of Regret",
+    "rank": "hierarch",
+    "homeworld": "High Charity",
+    "specie": "San'Shyuum",
+    "faction": "Covenant",
+    "description": "The High Prophet of Regret became the youngest hierarch after the Covenant discovered humanity. He ultimately became a pawn of the Prophet of Truth."
+  },
+  {
+    "id": "tartarus",
+    "name": "Tartarus",
+    "rank": "Chieftain of the Brutes",
+    "homeworld": "Doisac",
+    "specie": "Brute",
+    "faction": "Covenant",
+    "description": "Tartarus was held in high regard by the Prophet of Truth, allowing him to climb into leadership of the Covenant military."
+  }
+]

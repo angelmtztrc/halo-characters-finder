@@ -1,5 +1,14 @@
+import CharactersList from '../characters/CharactersList';
+
 const SpartanScreen = () => {
-  return <h1>Spartans</h1>;
+  return (
+    <div>
+      <h1>Spartans</h1>
+      <div>
+        <CharactersList faction="Spartan" />
+      </div>
+    </div>
+  );
 };
 
 export default SpartanScreen;
