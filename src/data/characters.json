@@ -1,6 +1,7 @@
 [
   {
     "id": "john-117",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/master-chief/master-chief-thumbnail-708x398-cd2e0516ab49409c823985737dfad08b.jpg",
     "name": "John-117",
     "rank": "Master Chief Petty Officer",
     "homeworld": "Eridanus II",
@@ -10,6 +11,7 @@
   },
   {
     "id": "samuel-034",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/sam-034/sam-034-708x398-1d03c5698a4a4d07ac5c25bb108ff27d.jpg",
     "name": "Samuel-034",
     "rank": "Petty Officer, Second Class",
     "homeworld": "Harvest",
@@ -19,6 +21,7 @@
   },
   {
     "id": "jerome-092",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/jerome-092/jerome-thumbnail-708x398-537cbe5b966342bda508441bc18a2572-a5ea305f9c5045719cdbc6efc2f77d55.jpg",
     "name": "Jerome-092",
     "rank": "Senior Chief Petty Officer",
     "homeworld": "Minister",
@@ -28,6 +31,7 @@
   },
   {
     "id": "alice-130",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/alice-130/alice-130-thumbnail-708x398-b98a4da705984a129072d055c807b4c2.jpg",
     "name": "Alice-130",
     "rank": "Senior Chief Petty Officer",
     "homeworld": "Passage",
@@ -37,6 +41,7 @@
   },
   {
     "id": "kelly-087",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/kelly-087/kelly-087-thumbnail-708x398-5e15cfc4f40b4f7789745764ff18d264.jpg",
     "name": "Kelly-087",
     "rank": "Spartan Petty Officer, First class",
     "homeworld": "IMBER",
@@ -45,7 +50,18 @@
     "description": "Kelly-087 is an elite Spartan-II supersoldier and close friend of the Master Chief. She is renowned for her incredible speed even among other Spartans."
   },
   {
+    "id": "douglas-042",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/douglas-042/douglas-042-thumbnail-708x398-e3a589e8d6b943cdab3f7d11e1d65229.jpg",
+    "name": "Douglas-042",
+    "rank": "Senior Chief Petty Officer",
+    "homeworld": "Asphodel",
+    "specie": "Human",
+    "faction": "Spartan",
+    "description": "Douglas-042 was part of the legendary SPARTAN-II project and member of the Red Team detachment associated with UNSC Spirit of Fire."
+  },
+  {
     "id": "thel-vadam",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/arbiter-thel-vadam/arbiter-thel-vadam-thumbnail-708x398-955e30b794274708ba9a70981c8a9e9f.jpg",
     "name": "Thel Vadam",
     "rank": "Arbiter",
     "homeworld": "Sanghelios",
@@ -55,6 +71,7 @@
   },
   {
     "id": "prophet-of-truth",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/prophet-of-truth/prophet-of-truth-thumbnail-708x398-88d0d2c2bf9c4f5684d712e91344b16e.jpg",
     "name": "Prophet of Truth",
     "rank": "Hierarch",
     "homeworld": "High Charity",
@@ -64,6 +81,7 @@
   },
   {
     "id": "prophet-of-mercy",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/prophet-of-mercy/prophet-of-mercy-thumbnail-708x398-04f86690b78e415ba3d3632d43cc2567.jpg",
     "name": "Prophet of Mercy",
     "rank": "hierarch",
     "homeworld": "High Charity",
@@ -73,6 +91,7 @@
   },
   {
     "id": "prophet-of-regret",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/prophet-of-regret/prophet-of-regret-thumbnail-708x398-72a9d4cbea1b449aade9eafd1805f103.jpg",
     "name": "Prophet of Regret",
     "rank": "hierarch",
     "homeworld": "High Charity",
@@ -81,12 +100,23 @@
     "description": "The High Prophet of Regret became the youngest hierarch after the Covenant discovered humanity. He ultimately became a pawn of the Prophet of Truth."
   },
   {
-    "id": "tartarus",
-    "name": "Tartarus",
-    "rank": "Chieftain of the Brutes",
-    "homeworld": "Doisac",
-    "specie": "Brute",
+    "id": "gek-lhar",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/gek-lhar/geklhar-thumbnail-708x398-92c32e2ae71c4479953da43abcee4c14.jpg",
+    "name": "Gek 'Lhar",
+    "rank": "Commander",
+    "homeworld": "Sanghelios",
+    "specie": "Sangheili",
     "faction": "Covenant",
-    "description": "Tartarus was held in high regard by the Prophet of Truth, allowing him to climb into leadership of the Covenant military."
+    "description": "Gek ‘Lhar joined Jul ‘Mdama following the aftermath of the Great Schism. His experience as a ruthless commander helped reform the Covenant."
+  },
+  {
+    "id": "jul-mdama",
+    "image": "https://content.halocdn.com/media/Default/encyclopedia/characters/jul-mdama/julmdama-thumbnail-708x398-dc4a693df8fb406884d130110e4c1ed3.jpg",
+    "name": "Jul 'Mdama",
+    "rank": "The Didact's Hand",
+    "homeworld": "Sanghelios",
+    "specie": "Sangheili",
+    "faction": "Covenant",
+    "description": "Jul ‘Mdama’s malcontent with the Arbiter led him to rebuild the Covenant and seek out the ancient Forerunner known as the Didact in an attempt to crush humanity."
   }
 ]

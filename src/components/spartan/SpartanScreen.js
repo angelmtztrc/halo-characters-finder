@@ -2,11 +2,9 @@ import CharactersList from '../characters/CharactersList';
 
 const SpartanScreen = () => {
   return (
-    <div>
-      <h1>Spartans</h1>
-      <div>
-        <CharactersList faction="Spartan" />
-      </div>
+    <div className="font-mono">
+      <h1 className="text-5xl font-bold">Spartans</h1>
+      <CharactersList faction="Spartan" />
     </div>
   );
 };

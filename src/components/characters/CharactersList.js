@@ -2,18 +2,17 @@ import PropTypes from 'prop-types';
 
 // selectors
 import getCharacterByFaction from '../../selectors/getCharacterByFaction';
+// components
+import CharacterCard from './CharacterCard';
 
 const CharactersList = ({ faction }) => {
   const characters = getCharacterByFaction(faction);
 
   return (
-    <div>
-      <h1>List</h1>
-      <ul>
-        {characters.map(character => (
-          <li key={character.id}>{character.name}</li>
-        ))}
-      </ul>
+    <div className="grid gap-6 grid-cols-3 mt-10">
+      {characters.map(character => (
+        <CharacterCard key={character.id} character={character} />
+      ))}
     </div>
   );
 };
