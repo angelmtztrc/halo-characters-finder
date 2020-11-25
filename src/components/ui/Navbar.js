@@ -10,7 +10,12 @@ const Navbar = () => {
         <span className="mx-5">|</span>
         <div className="flex flex-1 justify-between text-gray-400 text-lg font-semibold">
           <div>
-            <NavLink activeClassName="text-white" exact className="mr-3" to="/">
+            <NavLink
+              activeClassName="text-white"
+              exact
+              className="mr-3"
+              to="/spartans"
+            >
               Spartans
             </NavLink>
             <NavLink activeClassName="text-white" exact to="/covenants">
