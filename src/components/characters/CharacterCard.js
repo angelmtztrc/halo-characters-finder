@@ -7,7 +7,7 @@ const CharacterCard = ({ character }) => {
 
   return (
     <Link
-      className="relative w-full font-mono rounded-lg shadow-lg overflow-hidden"
+      className="animate-fadeIn relative w-full font-mono rounded-lg shadow-lg overflow-hidden"
       to={`/character/${id}`}
     >
       <img
