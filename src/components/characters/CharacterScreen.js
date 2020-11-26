@@ -1,3 +1,4 @@
+import { useMemo } from 'react';
 import { Redirect, useParams } from 'react-router-dom';
 
 // selectors
@@ -8,7 +9,7 @@ const CharacterScreen = ({ history }) => {
   const { id } = useParams();
 
   // get the character info by id
-  const character = getCharacterById(id);
+  const character = useMemo(() => getCharacterById(id), [id]);
 
   if (!character) {
     return <Redirect to="/" />;

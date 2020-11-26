@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+import { useMemo } from 'react';
 
 // selectors
 import getCharacterByFaction from '../../selectors/getCharacterByFaction';
@@ -6,7 +7,7 @@ import getCharacterByFaction from '../../selectors/getCharacterByFaction';
 import CharacterCard from './CharacterCard';
 
 const CharactersList = ({ faction }) => {
-  const characters = getCharacterByFaction(faction);
+  const characters = useMemo(() => getCharacterByFaction(faction), [faction]);
 
   return (
     <div className="grid gap-6 grid-cols-3 mt-10">
