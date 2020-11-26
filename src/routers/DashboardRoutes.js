@@ -11,7 +11,7 @@ const DashboardRoutes = () => {
   return (
     <>
       <Navbar />
-      <main className="container mt-10 mx-auto">
+      <main className="container mx-auto my-10">
         <Switch>
           <Route exact path="/spartans" component={SpartanScreen} />
           <Route exact path="/covenants" component={CovenantScreen} />

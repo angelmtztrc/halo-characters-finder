@@ -2,11 +2,9 @@ import CharactersList from '../characters/CharactersList';
 
 const CovenantScreen = () => {
   return (
-    <div>
-      <h1>Covenants</h1>
-      <div>
-        <CharactersList faction="Covenant" />
-      </div>
+    <div className="font-mono">
+      <h1 className="text-5xl font-bold">Covenants</h1>
+      <CharactersList faction="Covenant" />
     </div>
   );
 };
