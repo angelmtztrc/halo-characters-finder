@@ -19,7 +19,7 @@ const CharacterScreen = ({ history }) => {
 
   // handle redirect
   const handleRedirect = () => {
-    history.goBack();
+    history.length <= 2 ? history.push('/') : history.goBack();
   };
 
   return (
