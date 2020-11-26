@@ -9,7 +9,14 @@ module.exports = {
         secondary: '#282C34'
       },
       animation: {
-        'spin-slow': 'spin 20s linear infinite'
+        'spin-slow': 'spin 20s linear infinite',
+        fadeIn: 'fadeIn 1s linear'
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: 0 },
+          '100%': { opacity: 1 }
+        }
       }
     }
   },
