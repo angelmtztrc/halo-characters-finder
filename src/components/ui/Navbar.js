@@ -12,14 +12,22 @@ const Navbar = () => {
           <div>
             <NavLink
               activeClassName="text-white"
-              exact
               className="mr-3"
+              exact
               to="/spartans"
             >
               Spartans
             </NavLink>
-            <NavLink activeClassName="text-white" exact to="/covenants">
+            <NavLink
+              activeClassName="text-white"
+              className="mr-3"
+              exact
+              to="/covenants"
+            >
               Covenants
+            </NavLink>
+            <NavLink activeClassName="text-white" exact to="/search">
+              Search
             </NavLink>
           </div>
           <NavLink activeClassName="text-white" exact to="/login">
